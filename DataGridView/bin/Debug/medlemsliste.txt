@@ -1,0 +1,5 @@
+Michael,Odense,1234,Odense,1500
+Thomas,Odense,1235,Odense,2300
+hej,tester,5000,hdash,1450
+3421,rew43,432,432,43
+Torben,Blabla,4561,Bla,789456123
